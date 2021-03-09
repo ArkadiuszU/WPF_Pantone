@@ -1,0 +1,16 @@
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\bin\x64\Release\WpfApp1.exe.config
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\bin\x64\Release\WpfApp1.exe
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\bin\x64\Release\WpfApp1.pdb
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.csprojAssemblyReference.cache
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\MainWindow.g.cs
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\App.g.cs
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\GeneratedInternalTypeHelper.g.cs
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1_MarkupCompile.cache
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1_MarkupCompile.lref
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\MainWindow.baml
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.g.resources
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.Properties.Resources.resources
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.csproj.GenerateResource.cache
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.csproj.CoreCompileInputs.cache
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.exe
+\\pozfiler01\users$\arkurb\Desktop\Pantone\WpfApp1\WpfApp1\obj\x64\Release\WpfApp1.pdb
